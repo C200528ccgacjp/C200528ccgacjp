@@ -103,14 +103,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>c200615study/complete_u.php at main · c200615/c200615study</title>
+  <title>c200615study/config.php at main · c200615/c200615study</title>
     <meta name="description" content="Contribute to c200615/c200615study development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/858a3bdca94918bc97ef843862dda2f9559bb39dd05fe4c99b83a034ff502aac/c200615/c200615study" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="c200615study/complete_u.php at main · c200615/c200615study" /><meta name="twitter:description" content="Contribute to c200615/c200615study development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/858a3bdca94918bc97ef843862dda2f9559bb39dd05fe4c99b83a034ff502aac/c200615/c200615study" /><meta property="og:image:alt" content="Contribute to c200615/c200615study development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="c200615study/complete_u.php at main · c200615/c200615study" /><meta property="og:url" content="https://github.com/c200615/c200615study" /><meta property="og:description" content="Contribute to c200615/c200615study development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/858a3bdca94918bc97ef843862dda2f9559bb39dd05fe4c99b83a034ff502aac/c200615/c200615study" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="c200615study/config.php at main · c200615/c200615study" /><meta name="twitter:description" content="Contribute to c200615/c200615study development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/858a3bdca94918bc97ef843862dda2f9559bb39dd05fe4c99b83a034ff502aac/c200615/c200615study" /><meta property="og:image:alt" content="Contribute to c200615/c200615study development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="c200615study/config.php at main · c200615/c200615study" /><meta property="og:url" content="https://github.com/c200615/c200615study" /><meta property="og:description" content="Contribute to c200615/c200615study development by creating an account on GitHub." />
     
 
 
@@ -118,11 +118,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93694030/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzY5NDAzMCwicyI6Nzk3ODMyNDA4LCJjIjozOTkxODgwOTMyLCJ0IjoxNjM5MDk4NjUxfQ==--40608e873fd83aaad55715f58c060e0b32f032d5ba89de779ddf8f71539791f0" data-refresh-url="/_alive" data-session-id="b2670e16f9818a8e87a2d7853c420441ea7d0a890c2e3c97234875269c0f0a41">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/93694030/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MzY5NDAzMCwicyI6Nzk3ODMyNDA4LCJjIjoxMTA2MTY3OTUzLCJ0IjoxNjM5MDk4NjY0fQ==--214819c22f629f5f60fdeac35dd072a937eae0173f5030ee9bb5cb2d7deb16bc" data-refresh-url="/_alive" data-session-id="b2670e16f9818a8e87a2d7853c420441ea7d0a890c2e3c97234875269c0f0a41">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-5ba606f2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="EDBC:243A:428F0:81552:61B2A8FA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c22e2d05ca337247982b143cb47707786a56308cca8bfb35db1662a3a7486a53" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jMjAwNjE1L2MyMDA2MTVzdHVkeSIsInJlcXVlc3RfaWQiOiJFREJDOjI0M0E6NDI4RjA6ODE1NTI6NjFCMkE4RkEiLCJ2aXNpdG9yX2lkIjoiODI5NjUxMTkwNjk2OTE5OTMyMyIsInJlZ2lvbl9lZGdlIjoiYXAtbm9ydGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="056b19dd40a9912db968c29df4328d5893adf5abe5373e42c7432e59179934c4" data-pjax-transient="true" />
+  <meta name="request-id" content="EDBC:243A:429D5:816AA:61B2A91B" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c22e2d05ca337247982b143cb47707786a56308cca8bfb35db1662a3a7486a53" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jMjAwNjE1L2MyMDA2MTVzdHVkeSIsInJlcXVlc3RfaWQiOiJFREJDOjI0M0E6NDI5RDU6ODE2QUE6NjFCMkE5MUIiLCJ2aXNpdG9yX2lkIjoiODI5NjUxMTkwNjk2OTE5OTMyMyIsInJlZ2lvbl9lZGdlIjoiYXAtbm9ydGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="21057cf211d571b3d5fb8c1e9fe9d0223bb1b2b52d15578af15e8018c70c316f" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:436321615" data-pjax-transient>
 
@@ -161,7 +161,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YjE4MGM2MDgzNThlOThjNGU5MzMxOWFkOTFkNzVmNWQwYTE5ZTQ5MTIyMjRmOTc1YThkNGUyMWJmMGM5OWU2M3x7InJlbW90ZV9hZGRyZXNzIjoiMTE4LjIzOC4yMzAuMjExIiwicmVxdWVzdF9pZCI6IkVEQkM6MjQzQTo0MjhGMDo4MTU1Mjo2MUIyQThGQSIsInRpbWVzdGFtcCI6MTYzOTA5ODY1MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NjE3N2M1YmRmMzNmN2ZjYjhmZTcwNDE2MzZkZDFlZmI1YTY5Mjk4ODljM2FhYzFjZmRmOTA5NDdhY2JiMDk0OHx7InJlbW90ZV9hZGRyZXNzIjoiMTE4LjIzOC4yMzAuMjExIiwicmVxdWVzdF9pZCI6IkVEQkM6MjQzQTo0MjlENTo4MTZBQTo2MUIyQTkxQiIsInRpbWVzdGFtcCI6MTYzOTA5ODY2NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -180,7 +180,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/c200615/c200615study/blob/main/complete_u.php" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/c200615/c200615study/blob/main/config.php" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -221,7 +221,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="e9abc0bae0df29633c3c38c4a93ab39427e1e930072716e1bfdd8f09387cdde9" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="8ea03a7ed1d53a504b0cfa476a1ce36b7e4fb577b922e6f1f35b1a5effe8e4a7" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -271,7 +271,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="6eGtTObHsOQcq4zB82zZnfqw79Mew3LQQRgqzNK0NZKPizjveJS6fP8fXf9BlpZ49qwmhbcvfyTZ5S9AC9OxRw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="cIQJ4JCncPEdU3OE2lXCkRdomx3YVKUuTfBHYccQkWwW7pxDDvR6af7norpor410G3RSS3G4qNrVDULtHncVuQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -478,7 +478,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;C200528ccgacjp&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="12b14d5bdd3cf83743f1ad119574a60b13f60dbe8fb992305c508e5e124799ca" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;C200528ccgacjp&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="0039eb0ddd57bf33120eb06567bc3e87e062ec29297e152d8948e26c10644d96" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -487,12 +487,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/93694030?s=40&amp;v=4" width="20" height="20" alt="@C200528ccgacjp" />
       C200528ccgacjp
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gIiE+/dlHJHZmBy0z1a+PPWfEBd7bsIEFoVmmzSwHkA2KMgDpgHTrkWFS4DpR9Ol9WipxmYt4mohzcRnDgLmVQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CTuxdQd81/75O7CpoFHAjMhxFFY0gOSGiMnKGAFfc2q/m/2NVhgYwWUm552GQK0VyIathynDxOi/gWjkO+2Lfw==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="d652d1c4b062b58cf6d0ff4b9205827c5f78117bfaa00485bdb5a0855653a0e1" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="ad09e32afe448b6b62513a303cae53e8311976c6497ffd0f1282954c274d25f2" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -509,7 +509,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="e9abc0bae0df29633c3c38c4a93ab39427e1e930072716e1bfdd8f09387cdde9" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="8ea03a7ed1d53a504b0cfa476a1ce36b7e4fb577b922e6f1f35b1a5effe8e4a7" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -525,7 +525,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTM2OTQwMzAiLCJ0IjoxNjM5MDk4NjUxfQ==--251e04572c3f2f03397229fdf60287e4fa7397ddbea63821b3967a82f88242de">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTM2OTQwMzAiLCJ0IjoxNjM5MDk4NjY0fQ==--3e806570a50ef7fda2e8e6bf9aaa7ce82f818d33474f1f73166642bf824c07c4">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -548,7 +548,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="bb4e97fd97c4810583ec704dccf4f40b4292781ba119030cd4a8b1103edf3bcd" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="825f070364caea714c3c850a4378e4cf51c05acde1a3b1b35523fe88a06241f8" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -586,7 +586,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="8a20e776668d960b5f64579c41351b681e6da49ca2a6c735f5ec86bcbd788f23" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="07df40db1dd13a91aee03c110906066e81e45e6e759cf7409ef515932b16c0a4" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/93694030?s=40&amp;v=4" alt="@C200528ccgacjp" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -661,14 +661,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/c200615/c200615study/blob/main/complete_u.php
+      data-return-to=/c200615/c200615study/blob/main/config.php
       data-user-id="93694030"
       >
-      <input type="hidden" value="xFM9UYtY428sGbkWEoCoTTDT4FQ/SEiu+4GEhVL4GrP8ATZUimUEcm/FbarOzeNj+kwkEmw0eTPtwpqpY02qXg==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="lqgcptTqZzznYVDDITCkcae3DIv5/aogH5u+X86W0lOu+hej1deAIaS9hH/9fe9fbSjIzaqBm70J2KBz/yNivg==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-2Jz3lq/Gk0f8RePMFf+bUCfw6LwZ3nXfh3AQmMFOUj5cIW/rCeZcWRFO/q0l00bbLMcdXkpDj6KvP9Ny2qh8QA==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-d89cf796.js&quot;></script>
 " aria-hidden="true" data-url="https://github.com"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="5iM57gzW5/rOK92UgPAVIA19Ev+wUuizvuswg2il/mdjzG1+uvvFZfTM6aHIP1UuQ+vGLif7k2xi2hieMmLasg==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="KtlAThyCcHvSP17BWzrk17hIEHYoi/JAZdRWkCRsMjKvNhTeqq9S5OjYavQT9aTZ9t7Ep78iiZ+55X6NfqsW5w==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1359,7 +1359,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="e762e3dbff88a16871af507b5f46c46a19cbaa97f07415298e9530d183fe5c67" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="3942eb0c9249c9dfab4493338a39403ea32da9d00892e93e597fb989332deaa8" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">
   
   
           <span data-menu-button>
@@ -1417,7 +1417,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kUj9iCupKUfKgOB4jn5sqnA0jrwNuZqDLzm5/agF4YM2rSuNThsQNsjwZcPwxoigTy82ddUbaLR3cjKcmqXshQ==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fo6eQIYZCFj/AhxkBYisuq01ex3ssg0mn86yCkkxSB/Za0hF46sxKf1ymd97MEiwki7D1DQQ/xHHhTlre5FFGQ==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="436321615">
 
@@ -1540,7 +1540,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lHQq3WpBwK6xAy4UEJJuEYtq8BrxQM89qKolxiIiOfgzkfzYD/P537Nzq69uKoobtHFI0yniPQrw4a6nEII0/g==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j0aTmo0jGSypu7MXMJmAC38cASjZuG82+DdZhFqt6jUoo0Wf6JEgXavLNqxOIWQBQAe54QEanQGgfNLlaA3nMw==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="436321615">
 
@@ -1690,8 +1690,8 @@
 
 
     <li>
-              <form class="btn-with-count" action="/c200615/c200615study/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HtNk4TGZwQm2ylQHyNMpJ619OgWzV4WpRlsKfAORrkjTkU0jN84NprLzqfUVJaVeh3OCwLm9AdydfQSYPRRUsQ==" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="a24372442543ee742df037b2ff8e760b4b002b1cb0f58f4274d2b363f727aeaa" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of c200615/c200615study to your account" type="submit" data-view-component="true" class="btn-sm btn">
+              <form class="btn-with-count" action="/c200615/c200615study/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JJ7gsz7KbnN1yAyFw7A/pS+zfMdN2ap5q60LM2MSU7jp3MlxOJ2i3HHx8XceRrPcBb3EAkczLgxwiwXXXZepQQ==" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="a7c5627b2b14a1dae4b454c3c9275ad9379cad5937779bbb9c9ea7a6ee23e1c5" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of c200615/c200615study to your account" type="submit" data-view-component="true" class="btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -1708,9 +1708,9 @@
     <li>
           
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto" action="/c200615/c200615study/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wqpAgL6hfdyMpOYB94r2/QWda6nGnxST7ezxPuk8lAbtI/cioYiQB4BMLBy1hTbiLDE8nD18Rzkp57kcDLIYlw==" autocomplete="off" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto" action="/c200615/c200615study/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="S4jjesoq9P8MUI7/vBAmvsvPUAFDkXYdQCZQJlCR7n5kAVTY1QMZJAC4ROL+H+ah4mMHNLhyJbeELRgEtR9i7w==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="623fcf06210a5ed7e59336570d6ca70046d7cfa67bf6ca26246ff43760232e79" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="d10e47b2236d946918850944c0dbe2b34bf73d3865dd63434f9a1cfcf815779d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
@@ -1722,9 +1722,9 @@
   
 
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/c200615/c200615study/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zaRpJbZ+1iP5UyLhYLhESyi7tDy/yt+iMEBCbkWyX+lu98GX4YR52sFTcEcwPWwOM1grEUz9ajGC2/dF+pChgw==" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/c200615/c200615study/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/DgaaprWI+vMA3h5OSFeyijDeFRCQNTThblFfmUP/mVfa7LYzSyMEvQDKt9ppHaPMyDnebF3YUA3IvBV2i0ADw==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="8cda967b368331e5b75c4033c02e4fc4b1eeb9665f02abaccc42904e1a58462a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="cc9e047aa6b69af7db2d0663fa3b834610bf421ec5a7a98d4eab82080ec00f19" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -1736,7 +1736,7 @@
   
 
 </button></form>
-      <details id="details-e2ac3f" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-b7f6ee" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">
   
   
@@ -1756,13 +1756,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e2ac3f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b7f6ee">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-e2ac3f"
+        id="filter-menu-b7f6ee"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1969,7 +1969,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/c200615/c200615study/blob/d15c49f72b760a4c64db2a75eff721f8d719c2fa/complete_u.php">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/c200615/c200615study/blob/d15c49f72b760a4c64db2a75eff721f8d719c2fa/config.php">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -2058,7 +2058,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/c200615/c200615study/blob/{{ urlEncodedRefName }}/complete_u.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/c200615/c200615study/blob/{{ urlEncodedRefName }}/config.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2098,7 +2098,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/c200615/c200615study/blob/{{ urlEncodedRefName }}/complete_u.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/c200615/c200615study/blob/{{ urlEncodedRefName }}/config.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2132,9 +2132,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/c200615/c200615study"><span>c200615study</span></a></span></span><span class="separator">/</span><strong class="final-path">complete_u.php</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/c200615/c200615study"><span>c200615study</span></a></span></span><span class="separator">/</span><strong class="final-path">config.php</strong>
           <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:436321615,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="8aaf08ddb541687fb5cd4d8fce41041813e56621cfe2f43557270a1822811e7c" data-view-component="true" class="Link--secondary css-truncate btn-link">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:436321615,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="e4061b22872eb1c80955b0b39dda6fec1bea4374e9fab2a929d492999eacc1fb" data-view-component="true" class="Link--secondary css-truncate btn-link">
   
   
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
@@ -2200,7 +2200,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="5e0c69c569c04579d79512f433c4d08f902f107ffed01522cfbd83d99f35e7be" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/c200615/c200615study/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="23ef1bf7e85d44e6bae4093063be4315f9a4c1de24a4639eb83c2d1e392d86b9" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/c200615/c200615study/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -2230,13 +2230,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="complete_u.php" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="config.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/c200615/c200615study/blob/d15c49f72b760a4c64db2a75eff721f8d719c2fa/complete_u.php" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/c200615/c200615study/blob/d15c49f72b760a4c64db2a75eff721f8d719c2fa/config.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -2275,10 +2275,10 @@
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
             <a class="text-small text-mono Link--secondary" href="/c200615/c200615study/commit/d15c49f72b760a4c64db2a75eff721f8d719c2fa" data-pjax>d15c49f</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-12-09T16:37:55Z" class="no-wrap">Dec 9, 2021</relative-time></span>
+            <span itemprop="dateModified"><relative-time datetime="2021-12-09T16:37:55Z" class="no-wrap">Dec 10, 2021</relative-time></span>
           </span>
 
-          <a data-pjax href="/c200615/c200615study/commits/main/complete_u.php" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/c200615/c200615study/commits/main/config.php" class="ml-3 no-wrap Link--primary no-underline">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2304,7 +2304,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/c200615/c200615study/contributors-list/main/complete_u.php" preload>
+        src="/c200615/c200615study/contributors-list/main/config.php" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2349,22 +2349,22 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      79 lines (69 sloc)
+      11 lines (10 sloc)
       <span class="file-info-divider"></span>
-    2.49 KB
+    356 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a href="/c200615/c200615study/raw/main/complete_u.php" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/c200615/c200615study/raw/main/config.php" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/c200615/c200615study/blame/main/complete_u.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/c200615/c200615study/blame/main/config.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -2383,11 +2383,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/c200615/c200615study/raw/main/complete_u.php" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/c200615/c200615study/raw/main/config.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="44639f3ec13efb914ac0154d54c8b1eeab5ad4b074ee00c098c1d5bffc71197b" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="119d41d09f81e91902dc5be8f3163764d469adabb5fec7a3233742666a08ee31" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2413,7 +2413,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/c200615/c200615study/edit/main/complete_u.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3bX7x78H8+WU7bGMugrRjauyPs39kDao+bOovrxIQBiu96svPETCBApe82nMiUftyaH7nRMcHMLuhGxuDySjwQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/c200615/c200615study/edit/main/config.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YOKn4d8o4zp39ya6LhBw7d8NCpnOp6lhaH/Tt03UJRUNZsDbYDQs1RWyl1XDO6F7IgbZB/bpogg03r4GK4XHQA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2421,7 +2421,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/c200615/c200615study/delete/main/complete_u.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9kx0MBd4CrQ6rQCPL0vSzZp1J1J8C4oalwuwhNGG0+lG3/MWHpB5qDxb/jwM/9mR+6b6r1/Odb/NcNeBvcy3uw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/c200615/c200615study/delete/main/config.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="S0cYhv7hcXYlUoO3GC2Xzr0S5D50r0DJmgJNwp3IUl5Z8pCG1C9YVsum7+znOM+xr3h5KInRdwAR9gMmtu2ONQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2449,15 +2449,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/c200615/c200615study/raw/main/complete_u.php">
+            <a class="dropdown-item" href="/c200615/c200615study/raw/main/config.php">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/c200615/c200615study/raw/main/complete_u.php" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/c200615/c200615study/raw/main/config.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="44639f3ec13efb914ac0154d54c8b1eeab5ad4b074ee00c098c1d5bffc71197b">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:436321615,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="119d41d09f81e91902dc5be8f3163764d469adabb5fec7a3233742666a08ee31">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2483,17 +2483,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/c200615/c200615study/blame/main/complete_u.php">
+              <a class="dropdown-item" href="/c200615/c200615study/blame/main/config.php">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/c200615/c200615study/edit/main/complete_u.php">Edit file</a>
+                <a class="dropdown-item" href="/c200615/c200615study/edit/main/config.php">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/c200615/c200615study/delete/main/complete_u.php">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/c200615/c200615study/delete/main/config.php">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2533,331 +2533,46 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="PHP" data-tagsearch-path="complete_u.php">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="PHP" data-tagsearch-path="config.php">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>&lt;?php</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">﻿<span class=pl-ent>&lt;?php</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-en>session_start</span>();</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* データベース定義 */</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>require_once</span>(<span class=pl-s>&quot;functions.php&quot;</span>);</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-en>define</span>(<span class=pl-s>&#39;DB_HOST&#39;</span>,<span class=pl-s>&#39;localhost&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-en>define</span>(<span class=pl-s>&#39;DB_NAME&#39;</span>,<span class=pl-s>&#39;lesson1&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">  <span class=pl-c>/* (1)ここにセッション変数の受け渡し処理を追加して下さい  */</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-en>define</span>(<span class=pl-s>&#39;DB_CHAR&#39;</span>,<span class=pl-s>&#39;utf8mb4&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1><span class=pl-c1>$</span>name</span> = <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&quot;name&quot;</span>];</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-en>define</span>(<span class=pl-s>&#39;DSN&#39;</span>,<span class=pl-s>&#39;mysql:host=&#39;</span>.<span class=pl-c1>DB_HOST</span>.<span class=pl-s>&#39;;dbname=&#39;</span>.<span class=pl-c1>DB_NAME</span>.<span class=pl-s>&#39;;charset=&#39;</span>.<span class=pl-c1>DB_CHAR</span>.<span class=pl-s>&#39;&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1><span class=pl-c1>$</span>email</span> = <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&quot;email&quot;</span>];</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-en>define</span>(<span class=pl-s>&#39;DB_USER&#39;</span>,<span class=pl-s>&#39;root&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1><span class=pl-c1>$</span>gender</span> = <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&quot;gender&quot;</span>];</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-en>define</span>(<span class=pl-s>&#39;DB_PASS&#39;</span>,<span class=pl-s>&#39;&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1><span class=pl-c1>$</span>edit</span> = <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&quot;edit&quot;</span>];</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* PHPのエラーを表示するように設定 */</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">  </td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>dbh</span> = <span class=pl-en>db_conn</span>();      <span class=pl-c>// データベース接続</span></td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-k>try</span>{</td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>/* (2)ここにSQL文＋プレースホルダー　の文字列を準備する処理を追加して下さい  */</span></td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>sql</span> =<span class=pl-s>&quot;update user set name = :name, gender = :gender, email =:email, updatedate = NOW() where id = :id&quot;</span>;</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>stmt</span> = <span class=pl-s1><span class=pl-c1>$</span>dbh</span>-&gt;<span class=pl-en>prepare</span>(<span class=pl-s1><span class=pl-c1>$</span>sql</span>);                           <span class=pl-c>//クエリの実行準備</span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>stmt</span>-&gt;<span class=pl-en>bindValue</span>(<span class=pl-s>&#39;:email&#39;</span>, <span class=pl-s1><span class=pl-c1>$</span>email</span>, <span class=pl-c1>PDO</span>::<span class=pl-c1>PARAM_STR</span>);    <span class=pl-c>//バインド:プレースホルダ―の値を埋める</span></td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>stmt</span>-&gt;<span class=pl-en>bindValue</span>(<span class=pl-s>&#39;:name&#39;</span>, <span class=pl-s1><span class=pl-c1>$</span>name</span>, <span class=pl-c1>PDO</span>::<span class=pl-c1>PARAM_STR</span>);      <span class=pl-c>//バインド:プレースホルダ―の値を埋める</span></td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>stmt</span>-&gt;<span class=pl-en>bindValue</span>(<span class=pl-s>&#39;:gender&#39;</span>, <span class=pl-s1><span class=pl-c1>$</span>gender</span>, <span class=pl-c1>PDO</span>::<span class=pl-c1>PARAM_INT</span>);  <span class=pl-c>//バインド:プレースホルダーを埋める</span></td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>stmt</span>-&gt;<span class=pl-en>bindValue</span>(<span class=pl-s>&#39;:id&#39;</span>, <span class=pl-s1><span class=pl-c1>$</span>edit</span>, <span class=pl-c1>PDO</span>::<span class=pl-c1>PARAM_INT</span>);         <span class=pl-c>//バインド:プレースホルダーを埋める</span></td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>stmt</span>-&gt;<span class=pl-en>execute</span>();                                      <span class=pl-c>//クエリの実行</span></td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>dbh</span> = <span class=pl-c1>null</span>;                                           <span class=pl-c>//MySQL接続解除</span></td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">}<span class=pl-k>catch</span> (<span class=pl-smi>PDOException</span> <span class=pl-s1><span class=pl-c1>$</span>e</span>){</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>echo</span>(<span class=pl-s1><span class=pl-c1>$</span>e</span>-&gt;<span class=pl-en>getMessage</span>());</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>die</span>();</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>?&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>ja</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>更新結果画面<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>style.css</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>header</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">       <span class=pl-kos>&lt;</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>更新結果画面<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">       <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>header</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>hr</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>名前は <span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>name</span>;<span class=pl-ent>?&gt;</span> さん<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>メールアドレスは <span class=pl-ent>&lt;?php</span> <span class=pl-k>echo</span> <span class=pl-s1><span class=pl-c1>$</span>email</span>;<span class=pl-ent>?&gt;</span> <span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>性別は <span class=pl-ent>&lt;?php</span> <span class=pl-k>if</span>( <span class=pl-s1><span class=pl-c1>$</span>gender</span> === <span class=pl-s>&quot;1&quot;</span> ){ <span class=pl-k>echo</span> <span class=pl-s>&#39;男性&#39;</span>; }</td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>elseif</span>( <span class=pl-s1><span class=pl-c1>$</span>gender</span> === <span class=pl-s>&quot;2&quot;</span> ){ <span class=pl-k>echo</span> <span class=pl-s>&#39;女性&#39;</span>; }</td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>elseif</span>( <span class=pl-s1><span class=pl-c1>$</span>gender</span> === <span class=pl-s>&quot;9&quot;</span> ){ <span class=pl-k>echo</span> <span class=pl-s>&#39;その他&#39;</span>; }</td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>?&gt;</span> </td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>以上の内容で更新しました。<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>&lt;?php</span>  <span class=pl-c>/* セッション変数クリア */</span></td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">   unset(<span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;condition_name&#39;</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">   unset(<span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;edit&#39;</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">   unset(<span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;name&#39;</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L64" class="blob-num js-line-number js-code-nav-line-number" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line">   unset(<span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;email&#39;</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L65" class="blob-num js-line-number js-code-nav-line-number" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line">   unset(<span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SESSION</span></span>[<span class=pl-s>&#39;gender&#39;</span>]);</td>
-        </tr>
-        <tr>
-          <td id="L66" class="blob-num js-line-number js-code-nav-line-number" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>?&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L67" class="blob-num js-line-number js-code-nav-line-number" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>form</span> <span class=pl-c1>action</span>=&quot;<span class=pl-s>index.html</span>&quot; <span class=pl-c1>method</span>=&quot;<span class=pl-s>POST</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>button-wrapper</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>submit</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn btn--naby btn--shadow</span>&quot;<span class=pl-kos>&gt;</span>TOPに戻る<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>form</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>hr</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L74" class="blob-num js-line-number js-code-nav-line-number" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>footer</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L75" class="blob-num js-line-number js-code-nav-line-number" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>CCC.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L76" class="blob-num js-line-number js-code-nav-line-number" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>footer</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L77" class="blob-num js-line-number js-code-nav-line-number" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L78" class="blob-num js-line-number js-code-nav-line-number" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L79" class="blob-num js-line-number js-code-nav-line-number" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-en>error_reporting</span>(<span class=pl-c1>E_ALL</span> &amp; ~<span class=pl-c1>E_NOTICE</span>);</td>
         </tr>
   </table>
 </div>
@@ -2883,7 +2598,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/c200615/c200615study/blame/d15c49f72b760a4c64db2a75eff721f8d719c2fa/complete_u.php">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/c200615/c200615study/blame/d15c49f72b760a4c64db2a75eff721f8d719c2fa/config.php">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/c200615/c200615study/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2949,16 +2664,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="e6170e85ec07e2724006e44820d9db435d46b68ff772e074f26a74afb51f0180" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="412771644414a8d84a1edc9471627d3ec06359dc68fbd474b678ee459e5f8d88" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="02c39e782bcf2f321e40b08b20bc5d142cc57ed27d4fad2dfd1f719faeb26212" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="2c47fe2a8b33918166a59aa6cb3de9863d637e8810e3d46beceb3582d59f3b07" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="cd8311bb019aea9daa6a35f53b27f0ca4f6dfe174dbec4b2e49ba789043ebe40" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="569e2aa531cbe7ea412f334c5a39e50f8ff0bb4bc0afc3fab5188364f3a95368" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="b6a708fb63b294d5762d883d4f30b80498bc00e353c551e7101093c26ae602cf" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="24216c9aebfec2eab93babe8e4845db4097126fa795c42d4af9272c530f71944" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="55d76000de8e2454feaece54034751e56669b6c19e6eda4a3f8d13ba95ac94a9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="b988e2448cdc3ca49bbc9fe9cd8e3ff1646826ed0fda41eca8d303164949660f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="3cc4ea86ef41c5efa0c4040423dfa49bd8fb541f53bace70979bc37541e199b9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="0555f94015990d2a70c065742f897318f9253f0dcc3bc66cb8ce37ab8854b7b7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/complete_u.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="e167b54240687bdfe269e93f0cbb7fdc81ed423e4813615847346cf5d140e5d7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="75ac8e3197ab288bdbeda5ade4517a17de238fd83bb899d1cd75efec362e6b48" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="1d5c20acf3f4407c74a15aeb5e2c38d071086d419d0fa39cdcdf79bcd6743a9b" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="00648360f09c8553177172160f91459103778f9293f37835b5d9275645772366" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="710ab29b733f784531b4d38797dd141c5f2acaacc5b884a7f32aabee7e2d1d2c" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/c200615/c200615study/blob/main/config.php&quot;,&quot;user_id&quot;:93694030}}" data-hydro-click-hmac="c155ff7b9ef94608541a9f62b8e0b534a0d77dafe73006a90d0a95c9dbece6b6" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
